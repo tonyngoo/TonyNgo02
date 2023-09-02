@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A passionate software developer from Guelph, Ontario</h3>
 
-- 🔭 Previous co-op **@[Schema App](https://www.schemaapp.com/)**  as a Software Developer
+- 🔭 Previous co-op **@[TD Bank](https://www.td.com/ca/en/personal-banking)** as a Quality Engineer and **@[Schema App](https://www.schemaapp.com/)**  as a Software Developer
 
 - 🌱 I’m currently learning **React and Node.js!**
 
